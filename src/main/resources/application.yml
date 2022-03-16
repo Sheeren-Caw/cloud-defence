@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: clouddefence
+  server:
+    port: 8010
+sonatype:
+  token: ""

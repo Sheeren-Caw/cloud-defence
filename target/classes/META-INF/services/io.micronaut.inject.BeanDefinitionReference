@@ -1,0 +1,13 @@
+com.cawstudios.clouddefence.handlers.$AppHandlerImpl$Definition$Reference
+com.cawstudios.clouddefence.helpers.$ConsoleIOIOHelperImpl$Definition$Reference
+com.cawstudios.clouddefence.helpers.$HttpClientHelperImpl$Definition$Reference
+com.cawstudios.clouddefence.mappers.package_manager.$PackageManagerModelMapperImpl$Definition$Reference
+com.cawstudios.clouddefence.mappers.package_manager.$PythonPackageManagerModelMapperImpl$Definition$Reference
+com.cawstudios.clouddefence.mappers.vulnerability.$SonatypeVulnerabilityModelMapperImpl$Definition$Reference
+com.cawstudios.clouddefence.mappers.vulnerability.$VulnerabilityModelMapperImpl$Definition$Reference
+com.cawstudios.clouddefence.parsers.$PythonRequirementParserServiceImpl$Definition$Reference
+com.cawstudios.clouddefence.services.$BaseService$Definition$Reference
+com.cawstudios.clouddefence.services.outdated.$OutdatedVersionServiceImpl$Definition$Reference
+com.cawstudios.clouddefence.services.package_manager.$PythonPackageManagerServiceImpl$Definition$Reference
+com.cawstudios.clouddefence.services.sbom.$CycloneDXSBomServiceImpl$Definition$Reference
+com.cawstudios.clouddefence.services.vulnerability.$SonatypeVulnerabilityDetectionServiceImpl$Definition$Reference
