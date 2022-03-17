@@ -12,7 +12,7 @@ import javax.inject.Singleton;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2022-03-17T13:45:32+0530",
+    date = "2022-03-17T14:06:41+0530",
     comments = "version: 1.4.2.Final, compiler: javac, environment: Java 11.0.14 (Ubuntu)"
 )
 @Singleton
