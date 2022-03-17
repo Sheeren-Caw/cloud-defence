@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: cloud-defence-deployment
+  labels:
+    app: cloud-defence-app
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: cloud-defence-app
+  template:
+    metadata:
+      labels:
+        app: cloud-defence-app
+    spec:
+      containers:
+      - name: cloud-defence-container
+        image: cloud-defence:latest
+        ports:
+        - containerPort: 8080
